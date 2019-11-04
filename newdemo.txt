@@ -1,4 +1,4 @@
 This is a new file.
 Again bear with me.
 
-This is a change from branchnew.
+This is a change from branch2.
