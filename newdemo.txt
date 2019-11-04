@@ -4,3 +4,4 @@ Again bear with me.
 This is a change from branchnew.
 
 this Change is from master.
+This is a change from branch2.
