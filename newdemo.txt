@@ -2,3 +2,5 @@ This is a new file.
 Again bear with me.
 
 This is a change from branchnew.
+
+this Change is from master.
